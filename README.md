@@ -26,6 +26,11 @@ ghost/website <br/>
  <br/>
 레이어드 아키텍쳐와 DDD를 섞은 하이브리드 아키텍쳐 <br/>
 
+배포 환경(예정)<br/>
+우분투<br/>
+ssh <br/>
+Nginx<br/>
+
 
 https://github.com/Amadeus-P/release_rawdotweb_resource_server <br/>
 
