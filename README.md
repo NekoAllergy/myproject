@@ -9,7 +9,7 @@ JPA(Hibernate-구현체, Criteria-동적쿼리) <br/>
 서버 아키텍쳐 <br/>
 모놀로식 Layered 하이브리드 아키텍처
 
-서버 코드를 물리적으로 분리하지않고 개발함 > 모놀로식, 물리적으로 분리하여 개발 > MSA <br/>
+서버 코드를 물리적으로 분리하지않고 개발함 > 모놀로식, 물리적으로 분리하여 개발 > MSA(MicroService Architecture) <br/>
 Controller Service Repository Config Entity Dto 등 계층으로 구분한 Layered 아키텍쳐 <br/>
 DDD(Domain Design Driven) > 도메인으로 나누어 모놀로식에서 MSA로 개발 시 변환이 쉽다는 장점 <br/>
 admin/website <br/>
