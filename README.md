@@ -19,7 +19,7 @@ Vue3(Composition API) Nuxt3(SEO) <br/>
 Spring Boot 3.3.4 <br/>
 JPA(Hibernate-구현체, Criteria-동적쿼리) <br/>
 
-하이브리드 웹앱 <br/>
+하이브리드 앱(웹 기반 앱 제작) <br/>
 
 서버 아키텍쳐 <br/>
 모놀로식 Layered 하이브리드 아키텍처
