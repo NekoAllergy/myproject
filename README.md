@@ -15,8 +15,8 @@ UI <br/>
 
 
 개발환경 <br/>
-Vue3(Composition API) Nuxt3(SEO) <br/>
-Spring Boot 3.3.4 <br/>
+Vue3(CSR, Composition API) Nuxt3(SSR + SEO) <br/>
+Spring Boot 3.3.4(Resourse Server) <br/>
 JPA(Hibernate-구현체, Criteria-동적쿼리) <br/>
 
 하이브리드 앱(웹 기반 앱 제작 = 웹 + 앱) <br/>
