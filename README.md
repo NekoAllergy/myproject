@@ -105,6 +105,6 @@ https://github.com/Amadeus-P/release_rawdotweb_resource_server <br/>
 https://github.com/Amadeus-P/release_rowdotweb_client
 
 
-배포 후 도메인
+홈페이지
 
 https://www.rawdotweb.com
