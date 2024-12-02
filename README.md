@@ -29,7 +29,7 @@ JPA(Hibernate-구현체, Criteria-동적쿼리) <br/>
 프로젝트 단위에 따라 모놀로식과 MSA 중 선택함 <br/>
 
 Controller Service Repository Config Entity Dto 등 계층으로 구분한 Layered 아키텍쳐 <br/>
-DDD(Domain Design Driven) > 폴더를 도메인으로 나누어 모놀로식에서 MSA로 개발 시 변환이 쉽다는 장점 <br/>
+DDD(Domain Design Driven) > 폴더를 도메인(업무) 기준으로 나눔 <br/>
 admin/website <br/>
 member/website <br/>
 ghost/website <br/>
