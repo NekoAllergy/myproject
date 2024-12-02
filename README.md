@@ -36,6 +36,54 @@ ghost/website <br/>
  <br/>
 레이어드 아키텍쳐와 DDD를 섞은 하이브리드 아키텍쳐 <br/>
 
+java
+└─ com.main.web.siwa
+   ├─ config
+   ├─ controller
+   │  ├─ admin.category
+   │  ├─ auth
+   │  ├─ ghost
+   │  │  └─ website
+   │  ├─ member
+   │  │  ├─ comment
+   │  │  └─ website
+   │  │     └─ MemberController
+   │  └─ websiteImage
+   ├─ dto
+   │  ├─ admin.category
+   │  ├─ auth
+   │  ├─ ghost
+   │  │  └─ website
+   │  ├─ member
+   │  │  ├─ comment
+   │  │  └─ website
+   │  │     ├─ MemberDetailDto
+   │  │     ├─ MemberListDto
+   │  │     ├─ MemberResponseDto
+   │  │     ├─ MemberSearchDto
+   │  │     └─ MemberUpdateDto
+   │  └─ websiteImage
+   ├─ entity
+   ├─ error
+   ├─ filter
+   ├─ repository
+   ├─ service
+   │  ├─ admin.category
+   │  ├─ auth
+   │  ├─ ghost
+   │  │  └─ website
+   │  ├─ member
+   │  │  ├─ comment
+   │  │  └─ website
+   │  │     ├─ DefaultMemberService
+   │  │     └─ MemberService
+   │  └─ websiteImage
+   ├─ utility
+   └─ SiwaProjectApplication
+
+
+
+
 배포 환경(예정)<br/>
 우분투<br/>
 ssh <br/>
