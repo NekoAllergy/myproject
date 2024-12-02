@@ -33,7 +33,7 @@ Controller Service Repository Config Entity Dto 등 계층으로 구분한 Layer
 DDD(Domain Design Driven) > 폴더를 도메인(업무) 기준으로 나눔 <br/>
 
  <br/>
-레이어드 아키텍쳐와 DDD를 섞은 하이브리드 아키텍쳐 <br/>
+모놀로식 Layered 하이브리드 아키텍처 <br/>
 
 <pre>
 SIWA_Project
