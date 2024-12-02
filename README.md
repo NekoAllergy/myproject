@@ -24,7 +24,8 @@ JPA(Hibernate-구현체, Criteria-동적쿼리) <br/>
 서버 아키텍쳐 <br/>
 모놀로식 Layered 하이브리드 아키텍처
 
-서버 코드를 물리적으로 분리하지않고 통으로 개발함 > 모놀로식, 물리적으로 분리하여 개발 > MSA(MicroService Architecture) <br/>
+1. 서버 코드를 물리적으로 분리하지않고 통으로 개발함 > 모놀로식
+2. 물리적으로 분리하여 개발 > MSA(MicroService Architecture) <br/>
 
 프로젝트 단위에 따라 모놀로식과 MSA 중 선택함 <br/>
 
