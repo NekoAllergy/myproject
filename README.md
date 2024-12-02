@@ -31,9 +31,7 @@ JPA(Hibernate-구현체, Criteria-동적쿼리) <br/>
 
 Controller Service Repository Config Entity Dto 등 계층으로 구분한 Layered 아키텍쳐 <br/>
 DDD(Domain Design Driven) > 폴더를 도메인(업무) 기준으로 나눔 <br/>
-admin/website <br/>
-member/website <br/>
-ghost/website <br/>
+
  <br/>
 레이어드 아키텍쳐와 DDD를 섞은 하이브리드 아키텍쳐 <br/>
 
