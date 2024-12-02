@@ -77,9 +77,10 @@ SIWA_Project
 │               │   │   ├── controller
 │               │   │   ├── dto
 │               │   │   ├── service
-│               │   ├── controller
-│               │   ├── dto
-│               │   ├── service
+│               │   ├── profile
+│               │   │   ├── controller
+│               │   │   ├── dto
+│               │   │   ├── service
 │               │   └── website
 │               │       ├── controller
 │               │       ├── dto
@@ -90,6 +91,8 @@ SIWA_Project
 │                   ├── controller
 │                   ├── dto
 │                   ├── service
+└── SiwaProjectApplication
+
 </pre>
 
 배포 환경(예정)<br/>
