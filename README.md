@@ -47,40 +47,49 @@ SIWA_Project
 │   └── main
 │       └── java
 │           └── com.main.web.siwa
+│               ├── admin
+│               │   ├── category
+│               │   │   ├── controller
+│               │   │   ├── dto
+│               │   │   ├── service
+│               │   ├── member
+│               │   │   ├── controller
+│               │   │   ├── dto
+│               │   │   ├── service
+│               │   └── website
+│               │       ├── controller
+│               │       ├── dto
+│               │       ├── service
+│               ├── auth
+│               │   ├── controller
+│               │   ├── dto
+│               │   ├── service
 │               ├── config
-│               ├── controller
-│               │   ├── admin.category
-│               │   ├── auth
-│               │   ├── ghost
-│               │   ├── member
-│               │   │   ├── comment
-│               │   │   └── website
-│               │   └── websiteImage
-│               ├── dto
-│               │   ├── admin.category
-│               │   ├── auth
-│               │   ├── ghost.website
-│               │   ├── member
-│               │   │   ├── comment
-│               │   │   └── website
-│               │   └── websiteImage
 │               ├── entity
 │               ├── error
 │               ├── filter
+│               ├── ghost
+│               │   ├── controller
+│               │   ├── dto
+│               │   ├── service
+│               ├── member
+│               │   ├── comment
+│               │   │   ├── controller
+│               │   │   ├── dto
+│               │   │   ├── service
+│               │   ├── controller
+│               │   ├── dto
+│               │   ├── service
+│               │   └── website
+│               │       ├── controller
+│               │       ├── dto
+│               │       ├── service
 │               ├── repository
-│               │   ├── website
-│               │   ├── member
-│               │   └── comment
-│               ├── service
-│               │   ├── admin.category
-│               │   ├── auth
-│               │   ├── ghost.website
-│               │   ├── member
-│               │   │   ├── comment
-│               │   │   └── website
-│               │   └── websiteImage
-│               └── utility
-
+│               ├── utility
+│               └── websiteImage
+│                   ├── controller
+│                   ├── dto
+│                   ├── service
 </pre>
 
 배포 환경(예정)<br/>
